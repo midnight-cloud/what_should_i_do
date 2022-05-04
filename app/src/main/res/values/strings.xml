@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">What should i do</string>
+    <string name="get_random_activity">Get random activity</string>
+
+    <string name="act_education">education</string>
+    <string name="act_recreational">recreational</string>
+    <string name="act_social">social</string>
+    <string name="act_diy">diy</string>
+    <string name="act_charity">charity</string>
+    <string name="act_cooking">cooking</string>
+    <string name="act_relaxation">relaxation</string>
+    <string name="act_music">music</string>
+    <string name="act_busywork">busywork</string>
+
+    <string name="activity">Activity</string>
+    <string name="example">Example</string>
+    <string name="type">Type</string>
+    <string name="members">Members</string>
+    <string name="example_bigText">Кротовина, как того требуют законы термодинамики</string>
+    <string name="check_uncheck_all">Check/uncheck all</string>
+
+</resources>
